@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=noetovar5.learnlinuxlesson3"/>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=noetovar5.learnlinuxlesson2"/>
 # learnlinuxlesson2
 Noe Tovar Learning made fun Channel
 youtube tutorial learn linux lesson 2
