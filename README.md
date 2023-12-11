@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=noetovar5.learnlinuxlesson3"/>
-# learnlinuxlesson3
-
-youtube tutorial learn linux lesson 3
+# learnlinuxlesson2
+Noe Tovar Learning made fun Channel
+youtube tutorial learn linux lesson 2
 
 
 This is a follow along guide for youtube video learn linux lesson2
